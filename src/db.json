@@ -1,0 +1,279 @@
+{
+  "plants": [
+    {
+      "id": "4",
+      "name": "Bird's Nest Fern test wsdwsd",
+      "species": "Asplenium nidus111",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_0x0/site_3/living-lace-crissie-bird-s-nest-fern-japanese-bird-s-nest-fern-asplenium-antiquum-proven-winners_17353.jpg",
+      "size": "Up to 2 feet tall",
+      "water": "Keep soil evenly moist, but not soggy. Water at the edge of the rosette so water doesn't pool in the center and cause rot. Yellow leaves signal overwatering.",
+      "fertilize": "Fertilize every 2 to 4 weeks from spring until fall with a diluted houseplant fertililzer.",
+      "description": "This tropical fern makes a stunning centerpiece for a table or plant stand. New fronds unfurl from the center of the plant, so the shape remains elegant and upright. An ideal plant for a steamy bathroom, bird's nest ferns like moderate humidity and temperatures around 70 degrees F.",
+      "light": "wwww"
+    },
+    {
+      "id": "5",
+      "name": "ZZ Plant",
+      "species": "Zamioculcas zamiifolia",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_0x52/site_3/zamioculcas-zamiifolia-easy-indoor-plant-alamy-stock-photo_12386.jpg",
+      "size": " 2 to 3 feet tall",
+      "water": "ZZ plants store water in their semi-succulent stems so you may only need to water every couple weeks. Overwatering can do more damage than underwatering, so don't allow the soil to become soggy.",
+      "fertilize": "They are light feeders, so only fertilize every three months or so.",
+      "description": "The naturally shiny leaves of the ZZ plant require little effort to maintain their good looks. Simply dust them off with a damp cloth (leaf sprays may damage the foliage). ZZ plants also do well in medium/bright, indirect light. Keep in mind that all parts of the plant are toxic, so keep away from children and pets. "
+    },
+    {
+      "id": "6",
+      "name": "PARLOR PALM",
+      "species": "Chamaedorea elegans",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_0x58/site_3/chamaedorea-elegans-indoor-palm-alamy-stock-photo_12384.jpg",
+      "size": "2 to 4 feet tall",
+      "water": "Avoid overwatering, but keep the soil evenly moist. Water when the surface of the soil feels dry.",
+      "fertilize": "Fertilize monthly in spring and summer.",
+      "description": "Bring tropical flair indoors with a parlor palm. A popular choice for dimly lit foyers and offices. Typically the only pruning needed is the removal of lower fronds that naturally turn brown over time. Trimming healthy green fronds will stop growth completely. If you do prune, remove the entire stem.",
+      "light": "jjjj-test"
+    },
+    {
+      "id": "8",
+      "name": "CHINESE EVERGREEN 2",
+      "species": "Aglaonema spp.",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_22x0/site_3/chinese-evergreen-plant-aglaonema-shutterstock-com_15962.jpg",
+      "size": "2 to 3 feet tall",
+      "water": "Keep soil evenly moist, but not soggy. Reduce water in the winter when plant growth slows. Wilted leaves are a sign of underwatering; overwatering may cause stem or root rot.",
+      "fertilize": "Monthly with a diluted liquid fertilizer from early spring through fall.",
+      "description": "Chinese evergreens hate cold drafts and temperatures below 55 degrees F. Locate your plant away from drafty doorways, windows, and air-conditioning vents. Plants with darker green leaves can tolerate less light, while variegated varieties prefer brighter light.",
+      "light": "1111"
+    },
+    {
+      "id": "9",
+      "name": "CAST IRON PLANT !!!  asa",
+      "species": "Aspidistra elatior",
+      "image": "https://www.thespruce.com/thmb/ecrgEMOycT4gr7AUKEzNX6ei3eY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/plants-with-big-flowers-4138211-08-a1a49bfdcc4e45cabe312cc1f692ceb3.JPG",
+      "size": "15 to 24 inches tall",
+      "water": "Water moderately in spring and summer, less often in fall and winter. Allow the soil to dry between watering.",
+      "fertilize": "Once a month from spring through fall.",
+      "description": "Cast iron plants are extremely slow growing and can take years to reach their full height. Cast iron plants are almost impervious to neglect and aptly named for their tough-as-nails constitution. A good choice for dimly lit rooms and rooms with northern exposure.",
+      "light": "test"
+    },
+    {
+      "id": "10",
+      "name": "FIDDLE LEAF FIG",
+      "species": "Ficus lyrata",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_72x0/site_3/bambino-dwarf-fiddle-leaf-fig-ficus-lyrata-proven-winners_17325.jpg",
+      "size": "Up to 10 feet tall",
+      "water": "From spring to fall, water when the top inch of soil feels dry, more sparingly in winter.",
+      "fertilize": "Apply a high-nitrogen fertilizer that includes micronutrients monthly from spring through fall. Don't feed during winter months.",
+      "description": "Fiddle-leaf figs instantly give any room a jungle-like vibe. They grow very slowly, but can eventually reach the ceiling. With a reputation for being finicky, this cold-sensitive rainforest native needs just the right conditions to thrive indoors. Prefers east-facing, sunny windows; unobstructed late day sun in a west- or south-facing window may burn the leaves."
+    },
+    {
+      "id": "11",
+      "name": "RUBBER PLANT",
+      "species": "Ficus elastica",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_58x0/site_3/ficus-elastica-chroma-belize-rubber-plant-proven-winners_17344.jpg",
+      "size": "Up to 10 feet tall",
+      "water": "Keep soil evenly moist. Water when it becomes slightly dry to the touch.",
+      "fertilize": "Fertilize every two weeks when actively growing from spring through fall; monthly in winter.",
+      "description": "Rubber plants can threaten to outgrow a room, but can be kept in check by pruning off the top at the central stem. This will encourage growth of side branches. Keeping your plant in a smaller pot will also curb its growth."
+    },
+    {
+      "id": "13",
+      "name": "MONSTERA",
+      "species": "Monstera spp.",
+      "image": "https://www.ikea.com/ro/ro/images/products/fejka-planta-artificiala-interior-exterior-monstera__0614197_pe686822_s5.jpg?f=xl",
+      "size": "3 to 20 feet tall",
+      "water": "Deeply water every 1 to 2 weeks, or whenever the soil feels dry. Drooping leaves often mean your plant needs a drink.",
+      "fertilize": "Not necessary, but an occasional dose of all-purpose houseplant food during the spring and summer will encourage more vigorous growth.",
+      "description": "Also called mother-in-law's tongue, this hardy houseplant is almost impossible to kill. Although it prefers bright light, it will also persevere through dim lighting, temperature fluctuations, and lapses in watering. "
+    },
+    {
+      "id": "14",
+      "name": "WATERMELON PEPEROMIA",
+      "species": "Peperomia argyreia",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_70x0/site_3/watermelon-peperomia-plant-peperomia-houseplant-shutterstock-com_15964.jpg",
+      "size": "6 to 8 inches tall",
+      "water": "Water moderately, allowing the soil to become dry to the touch before rewatering. Overwatering can cause root rot.",
+      "fertilize": "Apply a balanced 20-20-20 liquid fertilizer monthly during the growing season, from mid-March to November. Cease fertilizing in winter when plant growth slows down.",
+      "description": "Also known as Swiss cheese plant or split-leaf philodendron, this tropical beauty sports lush green leaves that develop deep slits or holes as they mature. In nature, these vine-like plants love to climb trees with their aerial roots, so provide a moss pole or other support to accommodate their ascent."
+    },
+    {
+      "id": "16",
+      "name": "AFRICAN VIOLET",
+      "species": "Saintpaulia ionantha",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_58x0/site_3/african-violet-plant-flowering-houseplant-shutterstock-com_15965.jpg",
+      "size": "Usually under 4 inches tall",
+      "water": "Water when soil feels slightly dry to the touch. Try not get the leaves wet, which can cause spotting.",
+      "fertilize": "Apply a specialized African violet fertilizer every 2 to 3 weeks, or according to package directions.",
+      "description": "Thousands of cultivars give you a choice of almost any flower color, as well as single, double, and bicolored blooms. African violets will bloom repeatedly during spring and summer when given enough sunlight, with the blooms lasting up to a few weeks."
+    },
+    {
+      "id": "19",
+      "name": "SNAKE PLANT",
+      "species": "Sansevieria spp.",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_100x0/site_3/sansevieria-trifasciata-laurentii-houseplant-green-leaves-shutterstock-com_14449.jpg",
+      "size": "6 to 20 inches tall",
+      "water": "Allow the top inch of soil to dry completely before watering. Snake plants store water, so it's almost impossible to underwater them.",
+      "fertilize": "Not necessary, but an occasional dose of all-purpose houseplant food during the spring and summer will encourage more vigorous growth.",
+      "description": "Also called mother-in-law's tongue, this hardy houseplant is almost impossible to kill. Although it prefers bright light, it will also persevere through dim lighting, temperature fluctuations, and lapses in watering."
+    },
+    {
+      "id": "20",
+      "name": "JADE PLANT",
+      "species": "Crassula ovata",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_58x0/site_3/jade-plant-jade-houseplant-jade-tree-shutterstock-com_15673.jpg",
+      "size": "Dwarf varieties, 12 to 18 inches tall",
+      "water": "Allow the soil to dry out between waterings, and water only sparingly in the winter months. Too much moisture can cause stem and root rot",
+      "fertilize": "Only occasionally with a diluted liquid fertilizer from spring through early fall.",
+      "description": "Jade plants can live for decades and are easy to propagate from leaf or stem cuttings. Let the cuttings dry out for a few days and then stick them in a good potting mix, preferably one for cactus and succulents."
+    },
+    {
+      "id": "21",
+      "name": "SPIDER PLANT",
+      "species": "Chlorophytum comosum",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_14x0/site_3/spider-plant-easy-care-houseplant-shutterstock-com_15967.jpg",
+      "size": "6 to 8 inches tall, with cascading runners",
+      "water": "Water generously when the soil feels dry; more sparingly in winter.",
+      "fertilize": "Monthly during the active growing season, early spring to late autumn.",
+      "description": "One of the easiest plants to propagate. Simply cut the baby spiders from their runners and place in moist potting soil. You can also stick them in a glass of water for a week or so until roots form and then pot in fresh soil. "
+    },
+    {
+      "id": "22",
+      "name": "KALANCHOE",
+      "species": "Kalanchoe blossfeldiana",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_0x30/site_3/kalanchoe-blossfeldiana-best-indoor-plant-shutterstock-com_12372.jpg",
+      "size": "Up to 12 inches tall",
+      "water": "Water every week or so when the soil feels dry.",
+      "fertilize": "Once or twice a year, in early spring and late autumn. Plants in bloom do not need fertilizing.",
+      "description": "When kalanchoes bloom, the flowers can last for several weeks. To encourage reblooming, pinch off spent flowers and give the plant a rest period with no fertilizing and minimal watering. After a month or so, new buds should begin to form."
+    },
+    {
+      "id": "24",
+      "name": "ALOE",
+      "species": "Aloe vera spp.",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_94x0/site_3/aloe-vera-aloe-houseplant-shutterstock-com_15969.jpg",
+      "size": "12 to 24 inches tall",
+      "water": "Water deeply, but not too often, allowing the soil to dry to a depth of 1 to 2 inches between watering.",
+      "fertilize": "Aloes generally don't require fertilizing.",
+      "description": "Aloes prefer tight quarters and keeping them slightly root bound may help promote blooming, which doesn't always happen when they are grown indoors. Grow them in a sandy, well-drained soil such as a cactus potting mix."
+    },
+    {
+      "id": "26",
+      "name": "NEVER NEVER PLANT",
+      "species": "Ctenanthe spp.",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_48x0/site_3/sweet-dreams-grey-star-ctenanthe-ctenanthe-setosa-never-never-plant-proven-winners_17338.jpg",
+      "size": "12 to 36 inches tall",
+      "water": "Keep soil moist, but not soggy. Use distilled or filtered water, as plants are sensitive to impurities and salts in tap water.",
+      "fertilize": "Feed once a month with a water-soluble plant fertilizer diluted to half strength in the growing season; withhold fertilizer in winter.",
+      "description": "Ctenanthe is the perfect bathroom plant because it grows well in the low-light conditions typical of many bathrooms. Leaf damage is possible when humidity levels drop below 40%, so avoid placing your plant in drier areas of the home or near heating and cooling vents.",
+      "light": "Place in the medium indirect light of a north- or east-facing window; the foliage is sensitive to bright sunlight."
+    },
+    {
+      "id": "27",
+      "name": "TRADESCANTIA",
+      "species": "Tradescantia spp.",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_48x0/site_3/feeling-flirty-tradescantia-purple-tradescantia-tradescantia-hybrid-proven-winners_17350.jpg",
+      "size": "2 to 4 inches tall, trails to 3 feet",
+      "water": "Tradescantias prefer moist soil; avoid overwatering to prevent root rot.",
+      "fertilize": "Use a balanced liquid houseplant fertilizer monthly.",
+      "description": "Also known as spiderwort, this easy-to-grow vine features colorful striped foliage and a trailing habit, making a pretty display when allowed to spill from a hanging pot or basket. It grows best in moderate to high humidities. If you see the leaf tips beginning to brown, it could be a sign that the humidity is too low.",
+      "light": "Grow in bright indirect light. Insufficient light results in spindly plants that are not as full."
+    },
+    {
+      "id": "28",
+      "name": "NERVE PLANT",
+      "species": "Fittonia albivenis",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_48x0/site_3/nerve-plant-fittonia-albivenis-shutterstock-com_16676.jpg",
+      "size": "6 to 8 inches tall",
+      "water": "Water when the soil surface begins to feel dry. Drooping leaves are another sign that your plant needs water.",
+      "fertilize": "Once a month, using a diluted liquid houseplant fertilizer.",
+      "description": "Named for the intricate veins running through its foliage, this charming houseplant (also called mosaic plant) is ideal for brightening up small containers and terrariums. Although nerve plant grows well under a wide range of light conditions, this rainforest native needs adequate moisture and humidity to prevent the colorful leaves from becoming brown and withered.",
+      "light": "Low to moderate indirect light. Keep away from bright sunlight."
+    },
+    {
+      "id": "29",
+      "name": "CHINESE EVERGREEN",
+      "species": "Aglaonema spp.",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_18x0/site_3/chinese-evergreen-plant-aglaonema-shutterstock-com_15962.jpg",
+      "size": "2 to 3 feet tall",
+      "water": "Keep soil evenly moist, but not soggy. Brown leaves can result from underwatering, low humidity, or cold drafts.",
+      "fertilize": "Once a month in spring and summer. Avoid fertilizing in winter.",
+      "description": "Here’s a plant you can grow almost anywhere because it adapts to a wide range of indoor growing conditions, including poor light. Most varieties have lush green leaves attractively patterned with silver, pink or red. When grown in brighter light, Chinese evergreens will also produce pretty, peace-lily-like blooms.",
+      "light": "Low light (bright enough to read by) is sufficient. Never place in direct sunlight."
+    },
+    {
+      "id": "30",
+      "name": "PEPEROMIA",
+      "species": "Peperomia obtusifolia",
+      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_74x0/site_3/watermelon-peperomia-peperomia-argyreia-shutterstock-com_16606.jpg",
+      "size": "6 to 12 inches tall",
+      "water": "Every 7 to 10 days, or when the top inch or two of soil feels dry to the touch.",
+      "fertilize": "Apply a diluted liquid fertilizer once a month from early spring through late summer. Do not fertilize in winter.",
+      "description": "Perhaps no houseplant offers a greater array of foliage colors, textures, and shapes than peperomia. Most varieties are also small in size, making them ideally suited for shelves, tabletops, and windowsills. Because peperomias are native to tropical regions, they prefer moderate to high humidity and thrive in places like terrariums and brightly lit bathrooms.",
+      "light": "Will tolerate low light, but for the best leaf color, grow under bright indirect light, such as an east- or west-facing window. Can also be grown under fluorescent lighting."
+    },
+    {
+      "id": "55",
+      "name": "test",
+      "species": "asas",
+      "water": "sasdad",
+      "fertilize": "daada",
+      "description": "dasdadf",
+      "light": "afdasfdas",
+      "size": "12",
+      "image": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.hawaiimagazine.com/content/uploads/2020/12/plumeria-2-Eric-Tessmer-Flickr-1024x708.jpg"
+    },
+    {
+      "id": "379",
+      "name": "Test 11",
+      "species": "sqss",
+      "water": "dd",
+      "fertilize": "wdawfawf",
+      "description": "fwafwa",
+      "light": "fawfawfa",
+      "size": "faf",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/grass-filled-with-purple-white-and-yellow-flowers-royalty-free-image-1675974624.jpg?crop=1.00xw:0.669xh;0,0.115xh&resize=1200:*"
+    },
+    {
+      "id": "368",
+      "name": "aasasa",
+      "species": "adawdaw",
+      "water": "dawdawfa",
+      "fertilize": "fawf",
+      "description": "aefafae",
+      "light": "fasqsqswq -1111",
+      "size": "fawfafw",
+      "image": "https://www.farmersalmanac.com/wp-content/uploads/2021/04/forget-me-not-flower-as309740666.jpeg"
+    },
+    {
+      "id": "176",
+      "name": "asas",
+      "species": "asasa",
+      "water": "asas",
+      "fertilize": "asas",
+      "description": "assasas",
+      "light": "asas",
+      "size": "asas",
+      "image": "asas"
+    },
+    {
+      "id": "724",
+      "name": "asdd",
+      "species": "asdasd",
+      "water": "adasda",
+      "fertilize": "sdsad",
+      "description": "fdfsds",
+      "light": "saddasd",
+      "size": "sasada",
+      "image": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.hawaiimagazine.com/content/uploads/2020/12/plumeria-2-Eric-Tessmer-Flickr-1024x708.jpg"
+    },
+    {
+      "id": "331",
+      "name": "fgsdxg",
+      "species": "sdfgsdxfg",
+      "water": "sgsdfgsg",
+      "fertilize": "sgs",
+      "description": "gsgsdg",
+      "light": "sdgsdgs",
+      "size": "gsdgsd",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/grass-filled-with-purple-white-and-yellow-flowers-royalty-free-image-1675974624.jpg?crop=1.00xw:0.669xh;0,0.115xh&resize=1200:*"
+    }
+  ]
+}

@@ -1,24 +1,23 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Paths } from "./paths";
+import AllPlants from "./Components/AllPlants";
+import OnePlant from "./Components/OnePlant";
+import AddPlant from "./Components/AddPlant";
+import EditPlant from "./Components/EditPlant";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Router>
+        <div>
+          <Routes>
+            <Route path={Paths.PLANTS} element={<AllPlants />} />
+            <Route path={Paths.PLANT} element={<OnePlant />} />
+            <Route path={Paths.ADD_PLANT} element={<AddPlant />} />
+            <Route path={Paths.EDIT_PLANT} element={<EditPlant />} />
+          </Routes>
+        </div>
+      </Router>
     </div>
   );
 }
