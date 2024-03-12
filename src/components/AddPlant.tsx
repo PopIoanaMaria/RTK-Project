@@ -4,13 +4,14 @@ import { useAddPlantMutation } from "../RTK/service";
 import { useNavigate } from "react-router-dom";
 import { Paths } from "../paths";
 import Form from "../ReusableComponents/Form";
+import { Plant } from "../interfaces";
 
 const AddPlant = () => {
   const navigate = useNavigate();
 
   const [addPlant] = useAddPlantMutation();
 
-  const [formData, setFormData] = useState({
+  const [formData, setFormData] = useState<Plant>({
     id: `${Math.floor(Math.random() * 1000)}`,
     name: "",
     species: "",
@@ -30,8 +31,7 @@ const AddPlant = () => {
     }));
   };
 
-  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
+  const handleSubmit = () => {
     addPlant(formData);
     navigate(Paths.PLANTS);
   };
@@ -41,7 +41,7 @@ const AddPlant = () => {
       <button onClick={() => navigate(Paths.PLANTS)}>Back</button>
       <Container>
         <Form
-          handleSubmit={handleSubmit}
+          handleSubmitForm={handleSubmit}
           formData={formData}
           handleChange={handleChange}
         />

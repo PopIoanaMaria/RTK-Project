@@ -1,42 +1,9 @@
 {
   "plants": [
     {
-      "id": "1",
-      "name": "Pothos",
-      "species": "Epipremnum aureum",
-      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_58x0/site_3/hawaiian-pothos-epipremnum-aureum-proven-winners_17324.jpg",
-      "size": "Vines 6 to 10 feet long",
-      "water": "Allow the top inch of soil to dry out between watering.",
-      "fertilize": "Light feeders, so use a balanced liquid fertilizer every 1 to 3 months",
-      "description": "One of the easiest houseplants to grow. This tropical vine comes in a variety of foliage colors and patterns. Pothos can be trimmed and kept compact, allowed to trail from hanging baskets, or trained up vertical supports.",
-      "light": ""
-    },
-    {
-      "id": "2",
-      "name": "Philodendron",
-      "species": "Philodendron spp.",
-      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_76x0/site_3/florida-green-philodendron-climbing-philodendron-philodendron-hybrid-proven-winners_17294.jpg",
-      "size": "Vines to 8 feet long",
-      "water": "Prefers evenly moist soil, but not soggy. Water if top inch of soil is dry.",
-      "fertilize": "Apply a water-soluble houseplant fertilizer from spring through fall.",
-      "description": "Another very easy-to-grow houseplant, similar to pothos. Tolerates low light, but will grow faster in medium to bright light. Foliage comes in a variety of sizes, shapes, and colors. Philodendrons can also be grown outdoors in mild climates",
-      "light": "aaa"
-    },
-    {
-      "id": "3",
-      "name": "Prayer Plant",
-      "species": "Calathea spp.",
-      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_36x0/site_3/beauty-star-calathea-calathea-ornata-pinstripe-calathea-proven-winners_17336.jpg",
-      "size": "Up to 3 feet tall",
-      "water": "Keep evenly moist. Don't allow to become overly soggy or dry out completely. May be sensitive to tap water, so use distilled or filtered water.",
-      "fertilize": "Once a month from spring through fall.",
-      "description": "Also called rattlesnake plant, peacock plant, or zebra plant, this popular houseplant is grown for its decorative foliage in an assortment of patterns, colors, and shapes. Prayer plants don't like their roots disturbed, so repot in early spring only if rootbound.",
-      "light": ""
-    },
-    {
       "id": "4",
-      "name": "Bird's Nest Fern",
-      "species": "Asplenium nidus",
+      "name": "Bird's Nest Fern test wsdwsd",
+      "species": "Asplenium nidus111",
       "image": "https://www.gardendesign.com/pictures/images/263x300Exact_0x0/site_3/living-lace-crissie-bird-s-nest-fern-japanese-bird-s-nest-fern-asplenium-antiquum-proven-winners_17353.jpg",
       "size": "Up to 2 feet tall",
       "water": "Keep soil evenly moist, but not soggy. Water at the edge of the rosette so water doesn't pool in the center and cause rot. Yellow leaves signal overwatering.",
@@ -66,34 +33,26 @@
       "light": "jjjj-test"
     },
     {
-      "id": "7",
-      "name": "PEACE LILY",
-      "species": "Spathiphyllum spp.",
-      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_8x0/site_3/peace-lily-flower-spathiphyllum-flower-white-flower-shutterstock-com_14769.jpg",
-      "size": "1 to 6 feet tall",
-      "water": "Keep soil evenly moist, but not soggy. Don't allow the soil to dry out completely. Reduce water in the winter when plant growth slows.",
-      "fertilize": "Apply a water-soluble houseplant fertilizer at half strength every two months.",
-      "description": "Pure white spathes surrounding creamy white flower spikes bloom from mid-spring through late summer. Peace lilies love warmth and humidity. Avoid exposing them to temperatures below 55 degrees F."
-    },
-    {
       "id": "8",
-      "name": "CHINESE EVERGREEN",
+      "name": "CHINESE EVERGREEN 2",
       "species": "Aglaonema spp.",
       "image": "https://www.gardendesign.com/pictures/images/263x300Exact_22x0/site_3/chinese-evergreen-plant-aglaonema-shutterstock-com_15962.jpg",
       "size": "2 to 3 feet tall",
       "water": "Keep soil evenly moist, but not soggy. Reduce water in the winter when plant growth slows. Wilted leaves are a sign of underwatering; overwatering may cause stem or root rot.",
       "fertilize": "Monthly with a diluted liquid fertilizer from early spring through fall.",
-      "description": "Chinese evergreens hate cold drafts and temperatures below 55 degrees F. Locate your plant away from drafty doorways, windows, and air-conditioning vents. Plants with darker green leaves can tolerate less light, while variegated varieties prefer brighter light."
+      "description": "Chinese evergreens hate cold drafts and temperatures below 55 degrees F. Locate your plant away from drafty doorways, windows, and air-conditioning vents. Plants with darker green leaves can tolerate less light, while variegated varieties prefer brighter light.",
+      "light": "1111"
     },
     {
       "id": "9",
-      "name": "CAST IRON PLANT",
+      "name": "CAST IRON PLANT !!!  asa",
       "species": "Aspidistra elatior",
-      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_0x74/site_3/aspidistra-elatior-tough-indoor-plant-alamy-stock-photo_12381.jpg",
+      "image": "https://www.thespruce.com/thmb/ecrgEMOycT4gr7AUKEzNX6ei3eY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/plants-with-big-flowers-4138211-08-a1a49bfdcc4e45cabe312cc1f692ceb3.JPG",
       "size": "15 to 24 inches tall",
       "water": "Water moderately in spring and summer, less often in fall and winter. Allow the soil to dry between watering.",
       "fertilize": "Once a month from spring through fall.",
-      "description": "Cast iron plants are extremely slow growing and can take years to reach their full height. Cast iron plants are almost impervious to neglect and aptly named for their tough-as-nails constitution. A good choice for dimly lit rooms and rooms with northern exposure."
+      "description": "Cast iron plants are extremely slow growing and can take years to reach their full height. Cast iron plants are almost impervious to neglect and aptly named for their tough-as-nails constitution. A good choice for dimly lit rooms and rooms with northern exposure.",
+      "light": "test"
     },
     {
       "id": "10",
@@ -116,16 +75,6 @@
       "description": "Rubber plants can threaten to outgrow a room, but can be kept in check by pruning off the top at the central stem. This will encourage growth of side branches. Keeping your plant in a smaller pot will also curb its growth."
     },
     {
-      "id": "12",
-      "name": "TRADESCANTIA",
-      "species": "Tradescantia spp.",
-      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_58x0/site_3/feeling-flirty-tradescantia-purple-tradescantia-tradescantia-hybrid-proven-winners_17350.jpg",
-      "size": "3 to 36 inches tall, 9 to 24 inches wide, can trail to 36 inches",
-      "water": " Tradescantias prefer moist soil, but avoid overwatering to prevent root rot.",
-      "fertilize": "Use a balanced liquid houseplant fertilizer monthly.",
-      "description": "An easy-to-grow, trailing plant that is great for beginners. Perfect for use in a hanging basket or even spilling from a regular planter. If your plant becomes leggy over time, prune it back by pinching off the stems directly above a leaf node."
-    },
-    {
       "id": "13",
       "name": "MONSTERA",
       "species": "Monstera spp.",
@@ -146,16 +95,6 @@
       "description": "Also known as Swiss cheese plant or split-leaf philodendron, this tropical beauty sports lush green leaves that develop deep slits or holes as they mature. In nature, these vine-like plants love to climb trees with their aerial roots, so provide a moss pole or other support to accommodate their ascent."
     },
     {
-      "id": "15",
-      "name": "POLKA DOT PLANT",
-      "species": "Hypoestes phyllostachya",
-      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_0x80/site_3/hippo-pink-polka-dot-plant-pink-and-green-leaves-pink-polka-dot-plant-proven-winners_15865.jpg",
-      "size": "Up to 12 inches tall",
-      "water": "Keep the soil consistently moist, but not soggy. Too little water causes the leaves to wilt.",
-      "fertilize": "Apply a diluted liquid fertilizer every two weeks from early spring through late summer.",
-      "description": "A charming little foliage plant with cheery pink speckles over deep-green leaves. In addition to pink, cultivars sporting white or red dots are also available. Pinch back the stems of too tall or leggy plants to encourage bushier growth."
-    },
-    {
       "id": "16",
       "name": "AFRICAN VIOLET",
       "species": "Saintpaulia ionantha",
@@ -164,16 +103,6 @@
       "water": "Water when soil feels slightly dry to the touch. Try not get the leaves wet, which can cause spotting.",
       "fertilize": "Apply a specialized African violet fertilizer every 2 to 3 weeks, or according to package directions.",
       "description": "Thousands of cultivars give you a choice of almost any flower color, as well as single, double, and bicolored blooms. African violets will bloom repeatedly during spring and summer when given enough sunlight, with the blooms lasting up to a few weeks."
-    },
-    {
-      "id": "18",
-      "name": "ALOCASIA",
-      "species": "Alocasia hybrids",
-      "image": "https://www.gardendesign.com/pictures/images/263x300Exact_100x0/site_3/mythic-ninja-alocasia-alocasia-reginula-jewel-alocasia-proven-winners_17329.jpg",
-      "size": "2 to 6 feet tall and wide, depending on variety",
-      "water": "Water regularly during the growing season (spring through fall) to keep the soil evenly moist, but not soggy; less frequently during winter.",
-      "fertilize": "Feed with a diluted liquid houseplant fertilizer one to two times per month during spring and summer.",
-      "description": "Given the right conditions, these lush and leafy tropical plants can thrive indoors in well-lit areas, making them a bold focal point of any sunny room. In addition to bright light, alocasias also require a humid environment, so keep plants well-hydrated by using a humidifier or misting the leaves regularly."
     },
     {
       "id": "19",
@@ -292,14 +221,58 @@
       "image": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.hawaiimagazine.com/content/uploads/2020/12/plumeria-2-Eric-Tessmer-Flickr-1024x708.jpg"
     },
     {
-      "id": "986",
-      "name": "Test 2",
-      "species": "asasd",
-      "water": "dasd",
-      "fertilize": "asdasd",
-      "description": "asdasdasd",
-      "light": "sds",
-      "size": "adwsa",
+      "id": "379",
+      "name": "Test 11",
+      "species": "sqss",
+      "water": "dd",
+      "fertilize": "wdawfawf",
+      "description": "fwafwa",
+      "light": "fawfawfa",
+      "size": "faf",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/grass-filled-with-purple-white-and-yellow-flowers-royalty-free-image-1675974624.jpg?crop=1.00xw:0.669xh;0,0.115xh&resize=1200:*"
+    },
+    {
+      "id": "368",
+      "name": "aasasa",
+      "species": "adawdaw",
+      "water": "dawdawfa",
+      "fertilize": "fawf",
+      "description": "aefafae",
+      "light": "fasqsqswq -1111",
+      "size": "fawfafw",
+      "image": "https://www.farmersalmanac.com/wp-content/uploads/2021/04/forget-me-not-flower-as309740666.jpeg"
+    },
+    {
+      "id": "176",
+      "name": "asas",
+      "species": "asasa",
+      "water": "asas",
+      "fertilize": "asas",
+      "description": "assasas",
+      "light": "asas",
+      "size": "asas",
+      "image": "asas"
+    },
+    {
+      "id": "724",
+      "name": "asdd",
+      "species": "asdasd",
+      "water": "adasda",
+      "fertilize": "sdsad",
+      "description": "fdfsds",
+      "light": "saddasd",
+      "size": "sasada",
+      "image": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.hawaiimagazine.com/content/uploads/2020/12/plumeria-2-Eric-Tessmer-Flickr-1024x708.jpg"
+    },
+    {
+      "id": "331",
+      "name": "fgsdxg",
+      "species": "sdfgsdxfg",
+      "water": "sgsdfgsg",
+      "fertilize": "sgs",
+      "description": "gsgsdg",
+      "light": "sdgsdgs",
+      "size": "gsdgsd",
       "image": "https://hips.hearstapps.com/hmg-prod/images/grass-filled-with-purple-white-and-yellow-flowers-royalty-free-image-1675974624.jpg?crop=1.00xw:0.669xh;0,0.115xh&resize=1200:*"
     }
   ]

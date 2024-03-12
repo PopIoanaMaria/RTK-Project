@@ -3,6 +3,7 @@ import { useNavigate, useParams } from "react-router-dom";
 import styled from "styled-components";
 import { useGetPlantByIdQuery, useEditPlantMutation } from "../RTK/service";
 import Form from "../ReusableComponents/Form";
+import { Plant } from "../interfaces";
 
 const EditPlant = () => {
   const navigate = useNavigate();
@@ -13,7 +14,7 @@ const EditPlant = () => {
 
   const [editPlant] = useEditPlantMutation();
 
-  const [formData, setFormData] = useState({
+  const [formData, setFormData] = useState<Plant>({
     id: plantData?.id ?? "",
     name: plantData?.name ?? "",
     species: plantData?.species ?? "",
@@ -33,8 +34,7 @@ const EditPlant = () => {
     }));
   };
 
-  const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
+  const handleSubmit = () => {
     editPlant({ id: plantData?.id!, editPlant: formData });
     navigate(`/plants/${plantData?.id}`);
   };
@@ -44,7 +44,7 @@ const EditPlant = () => {
       <button onClick={() => navigate(`/plants/${plantData?.id}`)}>Back</button>
       <Container>
         <Form
-          handleSubmit={handleSubmit}
+          handleSubmitForm={handleSubmit}
           formData={formData}
           handleChange={handleEditPlant}
         />

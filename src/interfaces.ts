@@ -6,6 +6,6 @@ export interface Plant {
   size?: string;
   water?: string;
   fertilize?: string;
-  description?: string;
+  description: string;
   light?: string;
 }
